@@ -19,3 +19,8 @@
 ### 2 неделя - [Понижение размерности и матричные разложения](https://github.com/bajjara/datascience_courses/tree/master/Unsupervised_learning/2_week)
 ### 3 неделя - [Визуализация и поиск аномалий](https://github.com/bajjara/datascience_courses/tree/master/Unsupervised_learning/3_week)
 ### 4 неделя - [Тематическое моделирование](https://github.com/bajjara/datascience_courses/tree/master/Unsupervised_learning/4_week)
+
+## 4 курс: Построение выводов по данным :
+###  [Лекции](https://github.com/bajjara/datascience_courses/tree/master/Stats_for_data_analysis/Lectures)
+###  [Ноутбуки](https://github.com/bajjara/datascience_courses/tree/master/Stats_for_data_analysis/Notebooks)
+###  [Задания](https://github.com/bajjara/datascience_courses/tree/master/Stats_for_data_analysis/Homework/Churn_analysis)
